@@ -44,7 +44,7 @@ int main()
         cin >> cutSequence;
         if(cutSequence == "quit")
             break;
-        if(cutSequence.find("*") != string::npos)
+        while(cutSequence.find("*") != string::npos)
         {
             int index = cutSequence.find("*");
             cutSequence.replace(index, 1, "[A-Z]");     
