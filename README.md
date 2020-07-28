@@ -7,3 +7,5 @@ It then outputs the locations of the specific sequence.
 1. Please keep the three files in the same directory to prevent any errors.
 2. Enter "quit" to exit the program.
 3. The symbol "*" in your input sequence would be treated as a character that matches any character from A-Z. 
+
+[Table of amino acids](http://w3.iams.sinica.edu.tw/lab/wbtzeng/aminoacid.htm)
